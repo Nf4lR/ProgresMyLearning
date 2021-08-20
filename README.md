@@ -18,4 +18,3 @@ Learn of java class in dicoding. (Progres 100%)
   * Learn frequently used a class in java like the generic, exception, input output, date time, and casting 
   * Practice creating a program to temperature calculate, consonant vowel, and two-dimentional figure
   * Do the final exam to get a skills 
-  * Practice fork with git
